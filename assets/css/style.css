@@ -1,0 +1,26 @@
+body {
+	background-image: url("../images/background_ja.jpg");
+}
+
+h1 {
+	font-size: 58px; 
+	font-family: 'Bungee Inline', cursive;
+	color: yellow;
+}
+
+h2 {
+	font-size: 50px;
+	font-family: 'Atma', cursive;
+	color: yellow;
+}
+
+h3 {
+	font-size: 40px;
+	font-family: 'Atma', cursive;
+	color: yellow;
+}
+
+p {
+	font-family: Tahoma;
+}
+
